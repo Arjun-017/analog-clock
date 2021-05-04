@@ -1,0 +1,27 @@
+*{
+	margin: 10px;
+	padding: 0px;
+}
+html{
+	overflow-y: hidden;
+	overflow-x: hidden;
+}
+body{
+	background-color: black;
+	background-size: cover;
+}
+#mycanvas{
+	color: white;
+	border: 20px solid white;
+	margin:  0px auto;
+	background-color: black;
+}
+#banner{
+	position: relative;
+	top: -800px;
+	left: 1100px;
+	color: white;
+ 	font-family: 'Antonio', sans-serif;
+	font-size: 50px;
+ 	letter-spacing: 10px;
+}
